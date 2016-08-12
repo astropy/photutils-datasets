@@ -20,3 +20,11 @@ SA112-SF1-001R1.fit.gz and SA112-SF1-ra-dec-list.txt
 Reduced R-band image of part of the Landolt field SA112 SF1, with dtype=32,
 3072 x 2048 (x 3: image, uncertainty, mask) and RA/Dec of several stars in the
 image. The image was taken at `Minnesota State University Moorhead <http://physics.mnstate.edu>`_
+
+
+irac_ch[1-4]_flight.fits
+------------------------
+
+Spitzer IRAC in-flight PSFs for channels 1 - 4 (dated 2005 May 31).
+Downloaded from
+http://dirty.as.arizona.edu/~kgordon/mips/conv_psfs/conv_psfs.html
