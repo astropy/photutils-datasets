@@ -21,6 +21,11 @@ Reduced R-band image of part of the Landolt field SA112 SF1, with dtype=32,
 3072 x 2048 (x 3: image, uncertainty, mask) and RA/Dec of several stars in the
 image. The image was taken at `Minnesota State University Moorhead <http://physics.mnstate.edu>`_
 
+hst_wfc3ir_f160w_simulated_starfield.fits
+-----------------------------------------
+
+Simulated Hubble Space Telescope (HST) WFC3/IR F160W image of stars.
+The image (1000 x 1000) does not contain any background or noise.
 
 irac_ch[1-4]_flight.fits
 ------------------------
